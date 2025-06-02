@@ -1,0 +1,795 @@
+[
+  {
+    "name": "clo1",
+    "category": "bottomwear",
+    "tags": ["pink", "white","casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo1.jpg"
+  },
+  {
+    "name": "clo2",
+    "category": "topwear",
+    "tags": ["blue", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo2.jpg"
+  },
+  {
+    "name": "clo3",
+    "category": "bottomwear",
+    "tags": ["black", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo3.jpg"
+  },
+  {
+    "name": "clo4",
+    "category": "topwear",
+    "tags": ["blue", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo4.jpg"
+  },
+  {
+    "name": "clo5",
+    "category": "bottomwear",
+    "tags": ["white", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo5.jpg"
+  },
+  {
+    "name": "clo6",
+    "category": "topwear",
+    "tags": ["red", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo6.jpg"
+  },
+  {
+    "name": "clo7",
+    "category": "topwear",
+    "tags": ["black", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo7.jpg"
+  },
+  {
+    "name": "clo8",
+    "category": "topwear",
+    "tags": ["red", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo8.jpg"
+  },
+  {
+    "name": "clo9",
+    "category": "bottomwear",
+    "tags": ["blue", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo9.jpg"
+  },
+  {
+    "name": "clo10",
+    "category": "bottomwear",
+    "tags": ["brown", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo10.jpg"
+  },
+  {
+    "name": "clo11",
+    "category": "topwear",
+    "tags": ["white", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo11.jpg"
+  },
+  {
+    "name": "clo12",
+    "category": "layer",
+    "tags": ["white", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo12.jpg"
+  },
+  {
+    "name": "clo13",
+    "category": "topwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo13.jpg"
+  },
+  {
+    "name": "clo14",
+    "category": "topwear",
+    "tags": ["blue", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo14.jpg"
+  },
+  {
+    "name": "clo15",
+    "category": "topwear",
+    "tags": ["green", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo15.jpg"
+  },
+  {
+    "name": "clo16",
+    "category": "one-piece",
+    "tags": ["blue", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo16.jpg"
+  },
+  {
+    "name": "clo17",
+    "category": "topwear",
+    "tags": ["white", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo17.jpg"
+  },
+  {
+    "name": "clo18",
+    "category": "layer",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo18.jpg"
+  },
+  
+  {
+    "name": "clo19",
+    "category": "topwear",
+    "tags": ["blue", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo19.jpg"
+  },
+  {
+    "name": "clo20",
+    "category": "topwear",
+    "tags": ["white", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo20.jpg"
+  },
+  {
+    "name": "clo21",
+    "category": "topwear",
+    "tags": ["green", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo21.jpg"
+  },
+  {
+    "name": "clo22",
+    "category": "bottomwear",
+    "tags": ["black", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo22.jpg"
+  },
+  {
+    "name": "clo23",
+    "category": "topwear",
+    "tags": ["white", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo23.jpg"
+  },
+  {
+    "name": "clo24",
+    "category": "topwear",
+    "tags": ["green", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo24.jpg"
+  },
+  {
+    "name": "clo25",
+    "category": "bottomwear",
+    "tags": ["brown", "casual","gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo25.jpg"
+  },
+  {
+    "name": "clo26",
+    "category": "bottomwear",
+    "tags": ["black", "casual","gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo26.jpg"
+  },
+  {
+    "name": "clo27",
+    "category": "bottomwear",
+    "tags": ["brown", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo27.jpg"
+  },
+  {
+    "name": "clo28",
+    "category": "bottomwear",
+    "tags": ["white", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo28.jpg"
+  },
+  {
+    "name": "clo29",
+    "category": "bottomwear",
+    "tags": ["blue", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo29.jpg"
+  },
+  {
+    "name": "clo30",
+    "category": "bottomwear",
+    "tags": ["brown", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo30.jpg"
+  },
+  {
+    "name": "clo31",
+    "category": "topwear",
+    "tags": ["gold", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo31.jpg"
+  },
+  {
+    "name": "clo32",
+    "category": "swimwear",
+    "tags": ["purple", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo32.jpg"
+  },
+  {
+    "name": "clo33",
+    "category": "layer",
+    "tags": ["green", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo33.jpg"
+  },
+  {
+    "name": "clo34",
+    "category": "topwear",
+    "tags": ["grey", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo34.jpg"
+  },
+  {
+    "name": "clo35",
+    "category": "swimwear",
+    "tags": ["black", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo35.jpg"
+  },
+  {
+    "name": "clo36",
+    "category": "bottomwear",
+    "tags": ["blue", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo36.jpg"
+  },
+  {
+    "name": "clo37",
+    "category": "bottomwear",
+    "tags": ["brown", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo37.jpg"
+  },
+  {
+    "name": "clo38",
+    "category": "bottomwear",
+    "tags": ["white", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo38.jpg"
+  },
+  {
+    "name": "clo39",
+    "category": "topwear",
+    "tags": ["black", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo39.jpg"
+  },
+  {
+    "name": "clo40",
+    "category": "layer",
+    "tags": ["blue", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo40.jpg"
+  },
+  {
+    "name": "clo41",
+    "category": "layer",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo41.jpg"
+  },
+  {
+    "name": "clo42",
+    "category": "layer",
+    "tags": ["grey", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo42.jpg"
+  },
+  {
+    "name": "clo43",
+    "category": "swimwear",
+    "tags": ["white", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo43.jpg"
+  },
+  {
+    "name": "clo44",
+    "category": "swimwear",
+    "tags": ["black", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo44.jpg"
+  },
+  {
+    "name": "clo45",
+    "category": "swimwear",
+    "tags": ["blue", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo45.jpg"
+  },
+  {
+    "name": "clo46",
+    "category": "bottomwear",
+    "tags": ["red", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo46.jpg"
+  },
+  {
+    "name": "clo47",
+    "category": "topwear",
+    "tags": ["red", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo47.jpg"
+  },
+  {
+    "name": "clo48",
+    "category": "swimwear",
+    "tags": ["red", "swimming","swim"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo48.jpg"
+  },
+  {
+    "name": "clo49",
+    "category": "topwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo49.jpg"
+  },
+  {
+    "name": "clo50",
+    "category": "one-piece",
+    "tags": ["black", "beach","party","beach_party","beachparty","beach party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo50.jpg"
+  },
+  {
+    "name": "clo51",
+    "category": "topwear",
+    "tags": ["pink", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo51.jpg"
+  },
+  {
+    "name": "clo52",
+    "category": "bottomwear",
+    "tags": ["green", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo52.jpg"
+  },
+  {
+    "name": "clo53",
+    "category": "bottomwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo53.jpg"
+  },
+  {
+    "name": "clo54",
+    "category": "layer",
+    "tags": ["red", "formal"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo54.jpg"
+  },
+  {
+    "name": "clo55",
+    "category": "one-piece",
+    "tags": ["blue", "party","beach","beach_party","beachparty","beach party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo55.jpg"
+  },
+  {
+    "name": "clo56",
+    "category": "bottomwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo56.jpg"
+  },
+  {
+    "name": "clo57",
+    "category": "bottomwear",
+    "tags": ["white", "ethnic","traditional","ceremony"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo57.jpg"
+  },
+  {
+    "name": "clo58",
+    "category": "bottomwear",
+    "tags": ["white", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo58.jpg"
+  },
+  {
+    "name": "clo59",
+    "category": "one-piece",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo59.jpg"
+  },
+  {
+    "name": "clo60",
+    "category": "one-piece",
+    "tags": ["pink", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo60.jpg"
+  },
+  {
+    "name": "clo61",
+    "category": "layer",
+    "tags": ["black", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo61.jpg"
+  },
+  {
+    "name": "clo62",
+    "category": "bottomwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo62.jpg"
+  },
+  {
+    "name": "clo63",
+    "category": "topwear",
+    "tags": ["red", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo63.jpg"
+  },
+  {
+    "name": "clo64",
+    "category": "topwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo64.jpg"
+  },
+  {
+    "name": "clo65",
+    "category": "topwear",
+    "tags": ["blue", "party"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo65.jpg"
+  },
+  {
+    "name": "clo66",
+    "category": "bottomwear",
+    "tags": ["white", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo66.jpg"
+  },
+  {
+    "name": "clo67",
+    "category": "one-piece",
+    "tags": ["red", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo67.jpg"
+  },
+  {
+    "name": "clo68",
+    "category": "bottomwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo68.jpg"
+  },
+  {
+    "name": "clo69",
+    "category": "bottomwear",
+    "tags": ["green", "casual","camping", "hiking", "yoga", "running", "trekking","gym"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo69.jpg"
+  },
+  {
+    "name": "clo70",
+    "category": "layer",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo70.jpg"
+  },
+  {
+    "name": "clo71",
+    "category": "bottomwear",
+    "tags": ["black", "formal"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo71.jpg"
+  },
+  {
+    "name": "clo72",
+    "category": "bottomwear",
+    "tags": ["white", "ethnic","traditional","ceremony","cream"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo72.jpg"
+  },
+  {
+    "name": "clo73",
+    "category": "bottomwear",
+    "tags": ["green", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo73.jpg"
+  },
+  {
+    "name": "clo74",
+    "category": "topwear",
+    "tags": ["brown", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo74.jpg"
+  },
+  {
+    "name": "clo75",
+    "category": "topwear",
+    "tags": ["white", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo75.jpg"
+  },
+  {
+    "name": "clo76",
+    "category": "bottomwear",
+    "tags": ["grey", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo76.jpg"
+  },
+  {
+    "name": "clo77",
+    "category": "topwear",
+    "tags": ["blue", "party","date"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo77.jpg"
+  },
+  {
+    "name": "clo78",
+    "category": "bottomwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo78.jpg"
+  },
+  {
+    "name": "clo79",
+    "category": "bottomwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo79.jpg"
+  },
+  {
+    "name": "clo80",
+    "category": "topwear",
+    "tags": ["black", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo80.jpg"
+  },
+  {
+    "name": "clo81",
+    "category": "bottomwear",
+    "tags": ["black", "casual", "gym", "hiking", "camping", "yoga", "running", "trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo81.jpg"
+  },
+  {
+    "name": "clo82",
+    "category": "topwear",
+    "tags": ["pink", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo82.jpg"
+  },
+  {
+    "name": "clo83",
+    "category": "topwear",
+    "tags": ["white", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo83.jpg"
+  },
+  {
+    "name": "clo84",
+    "category": "topwear",
+    "tags": ["black", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo84.jpg"
+  },
+  {
+    "name": "clo85",
+    "category": "topwear",
+    "tags": ["brown", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo85.jpg"
+  },
+  {
+    "name": "clo86",
+    "category": "topwear",
+    "tags": ["red", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo86.jpg"
+  },
+  {
+    "name": "clo87",
+    "category": "bottomwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo87.jpg"
+  },
+  {
+    "name": "clo88",
+    "category": "topwear",
+    "tags": ["black", "party"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo88.jpg"
+  },
+  {
+    "name": "clo89",
+    "category": "bottomwear",
+    "tags": ["blue", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo89.jpg"
+  },
+  {
+    "name": "clo90",
+    "category": "topwear",
+    "tags": ["green", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo90.jpg"
+  },
+  {
+    "name": "clo91",
+    "category": "bottomwear",
+    "tags": ["black", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo91.jpg"
+  },
+  {
+    "name": "clo92",
+    "category": "topwear",
+    "tags": ["green", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo92.jpg"
+  },
+  {
+    "name": "clo93",
+    "category": "topwear",
+    "tags": ["blue", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo93.jpg"
+  },
+  {
+    "name": "clo94",
+    "category": "topwear",
+    "tags": ["brown", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo94.jpg"
+  },
+  {
+    "name": "clo95",
+    "category": "topwear",
+    "tags": ["grey", "casual"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo95.jpg"
+  },
+  {
+    "name": "clo96",
+    "category": "topwear",
+    "tags": ["blue", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo96.jpg"
+  },
+  {
+    "name": "clo97",
+    "category": "topwear",
+    "tags": ["white", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "male",
+    "image": "wardrobe/clo97.jpg"
+  },
+  {
+    "name": "clo98",
+    "category": "bottomwear",
+    "tags": ["white", "casual"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo98.jpg"
+  },
+  {
+    "name": "clo99",
+    "category": "bottomwear",
+    "tags": ["black", "gym","hiking","camping","yoga","running","trekking"],
+    "age_group": "adult",
+    "gender": "female",
+    "image": "wardrobe/clo99.jpg"
+  }
+]
